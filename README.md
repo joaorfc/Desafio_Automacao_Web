@@ -1,2 +1,3 @@
-# Desafio_Automacao_Web
-Desafio de Automação Web  Sicredi
+# prova_sicredi
+
+Desafio Automação Web - Prova técnica de Automação de Teste
